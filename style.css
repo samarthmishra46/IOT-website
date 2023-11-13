@@ -1,0 +1,40 @@
+.c-1 {
+    padding: 0px;
+    height: 5px;
+    width: auto;
+}
+
+.c-2 {
+    height: 1000px;
+
+}
+
+.mid-cards
+{
+    height: 300px;
+    display: inline;
+    float: right;
+}
+
+.cards-mid1 {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.cards-mid2 {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.cards-mid3 {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+#navBar
+{
+    /* height: 160px; */
+    padding-bottom: 0px;
+}
+.logo
+{
+    padding:50px
+}
