@@ -6,7 +6,6 @@
 
 .c-2 {
     height: 1000px;
-
 }
 
 .mid-cards
@@ -38,3 +37,11 @@
 {
     padding:50px
 }
+
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 0px;
+    }
